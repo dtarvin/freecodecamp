@@ -1,0 +1,33 @@
+Project API keys
+anon public		eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind3YXZ2bmF3cGp0YXdxZmZ1YnBxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDYyMjk4NDIsImV4cCI6MTk2MTgwNTg0Mn0.Uc6xApqaw3Y6KWGpCfPuXvnydH4X_Nm77ANkAyEvhGE
+service_role secret		eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind3YXZ2bmF3cGp0YXdxZmZ1YnBxIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY0NjIyOTg0MiwiZXhwIjoxOTYxODA1ODQyfQ.qRBq-8jlF0Rs3RYbM3gf68ZGT9tsWa0iga2Vg1Rnsvw
+
+Project Configuration
+URL		https://wwavvnawpjtawqffubpq.supabase.co
+JWT Secret		7c233ca5-978d-4fa7-aec3-8d0b7fa27d05
+
+Success! Created nextjs-demo at C:\Users\a161120\Documents\freecodecamp\Supabase\nextjs-demo
+Inside that directory, you can run several commands:
+
+  npm run dev
+    Starts the development server.
+
+  npm run build
+    Builds the app for production.
+
+  npm start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd nextjs-demo
+  npm run dev
+  
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+event - compiled client and server successfully in 2.7s (124 modules)
+wait  - compiling...
+event - compiled successfully in 85 ms (97 modules)
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
